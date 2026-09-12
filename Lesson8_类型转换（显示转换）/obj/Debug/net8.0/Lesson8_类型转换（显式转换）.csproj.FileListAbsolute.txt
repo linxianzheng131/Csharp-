@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson8_类型转换（显式转换）.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson8_类型转换（显式转换）.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson8_类型转换（显式转换）.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson8_类型转换（显式转换）.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson8_类型转换（显式转换）.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\refint\Lesson8_类型转换（显式转换）.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson8_类型转换（显式转换）.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\ref\Lesson8_类型转换（显式转换）.dll

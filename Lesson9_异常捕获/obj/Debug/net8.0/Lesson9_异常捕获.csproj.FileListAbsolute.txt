@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\bin\Debug\net8.0\Lesson9_异常捕获.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\bin\Debug\net8.0\Lesson9_异常捕获.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\bin\Debug\net8.0\Lesson9_异常捕获.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\bin\Debug\net8.0\Lesson9_异常捕获.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\bin\Debug\net8.0\Lesson9_异常捕获.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\refint\Lesson9_异常捕获.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\Lesson9_异常捕获.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson9_异常捕获\obj\Debug\net8.0\ref\Lesson9_异常捕获.dll
