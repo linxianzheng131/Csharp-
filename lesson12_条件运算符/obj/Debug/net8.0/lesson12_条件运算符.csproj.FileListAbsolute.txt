@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\bin\Debug\net8.0\lesson12_条件运算符.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\bin\Debug\net8.0\lesson12_条件运算符.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\bin\Debug\net8.0\lesson12_条件运算符.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\bin\Debug\net8.0\lesson12_条件运算符.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\bin\Debug\net8.0\lesson12_条件运算符.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\refint\lesson12_条件运算符.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\lesson12_条件运算符.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson12_条件运算符\obj\Debug\net8.0\ref\lesson12_条件运算符.dll
