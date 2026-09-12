@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lesson20_循环语句_for 循环/1.0.0": {
+        "runtime": {
+          "lesson20_循环语句_for 循环.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson20_循环语句_for 循环/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
