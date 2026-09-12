@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\bin\Debug\net8.0\leeson20_练习题_for循环.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\bin\Debug\net8.0\leeson20_练习题_for循环.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\bin\Debug\net8.0\leeson20_练习题_for循环.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\bin\Debug\net8.0\leeson20_练习题_for循环.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\bin\Debug\net8.0\leeson20_练习题_for循环.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\refint\leeson20_练习题_for循环.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\leeson20_练习题_for循环.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\leeson20_练习题_for循环\obj\Debug\net8.0\ref\leeson20_练习题_for循环.dll

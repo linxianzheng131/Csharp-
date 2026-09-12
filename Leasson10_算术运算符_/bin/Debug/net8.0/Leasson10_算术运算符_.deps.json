@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Leasson10_算术运算符_/1.0.0": {
+        "runtime": {
+          "Leasson10_算术运算符_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leasson10_算术运算符_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

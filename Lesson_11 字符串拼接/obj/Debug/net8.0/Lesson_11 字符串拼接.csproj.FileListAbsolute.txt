@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\bin\Debug\net8.0\Lesson_11 字符串拼接.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\bin\Debug\net8.0\Lesson_11 字符串拼接.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\bin\Debug\net8.0\Lesson_11 字符串拼接.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\bin\Debug\net8.0\Lesson_11 字符串拼接.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\bin\Debug\net8.0\Lesson_11 字符串拼接.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\refint\Lesson_11 字符串拼接.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\Lesson_11 字符串拼接.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson_11 字符串拼接\obj\Debug\net8.0\ref\Lesson_11 字符串拼接.dll

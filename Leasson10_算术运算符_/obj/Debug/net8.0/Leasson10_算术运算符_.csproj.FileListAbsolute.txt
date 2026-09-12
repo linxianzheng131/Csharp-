@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\bin\Debug\net8.0\Leasson10_算术运算符_.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\bin\Debug\net8.0\Leasson10_算术运算符_.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\bin\Debug\net8.0\Leasson10_算术运算符_.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\bin\Debug\net8.0\Leasson10_算术运算符_.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\bin\Debug\net8.0\Leasson10_算术运算符_.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\refint\Leasson10_算术运算符_.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\Leasson10_算术运算符_.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Leasson10_算术运算符_\obj\Debug\net8.0\ref\Leasson10_算术运算符_.dll
