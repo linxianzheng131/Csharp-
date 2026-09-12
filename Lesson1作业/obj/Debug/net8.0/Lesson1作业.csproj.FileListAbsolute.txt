@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\bin\Debug\net8.0\Lesson1作业.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\bin\Debug\net8.0\Lesson1作业.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\bin\Debug\net8.0\Lesson1作业.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\bin\Debug\net8.0\Lesson1作业.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\bin\Debug\net8.0\Lesson1作业.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\refint\Lesson1作业.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\Lesson1作业.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson1作业\obj\Debug\net8.0\ref\Lesson1作业.dll
