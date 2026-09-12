@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\bin\Debug\net8.0\lesson17_条件分支语句_switch语句.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\bin\Debug\net8.0\lesson17_条件分支语句_switch语句.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\bin\Debug\net8.0\lesson17_条件分支语句_switch语句.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\bin\Debug\net8.0\lesson17_条件分支语句_switch语句.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\bin\Debug\net8.0\lesson17_条件分支语句_switch语句.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\refint\lesson17_条件分支语句_switch语句.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\lesson17_条件分支语句_switch语句.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson17_条件分支语句_switch语句\obj\Debug\net8.0\ref\lesson17_条件分支语句_switch语句.dll

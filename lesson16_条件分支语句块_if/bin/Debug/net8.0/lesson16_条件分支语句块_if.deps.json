@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lesson16_条件分支语句块_if/1.0.0": {
+        "runtime": {
+          "lesson16_条件分支语句块_if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson16_条件分支语句块_if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
