@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\bin\Debug\net8.0\lesson18_循环语句_while.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\bin\Debug\net8.0\lesson18_循环语句_while.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\bin\Debug\net8.0\lesson18_循环语句_while.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\bin\Debug\net8.0\lesson18_循环语句_while.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\bin\Debug\net8.0\lesson18_循环语句_while.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\refint\lesson18_循环语句_while.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\lesson18_循环语句_while.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\lesson18_循环语句_while\obj\Debug\net8.0\ref\lesson18_循环语句_while.dll
