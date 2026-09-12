@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\bin\Debug\net8.0\Lesson4_变量的命名规则.exe
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\bin\Debug\net8.0\Lesson4_变量的命名规则.deps.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\bin\Debug\net8.0\Lesson4_变量的命名规则.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\bin\Debug\net8.0\Lesson4_变量的命名规则.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\bin\Debug\net8.0\Lesson4_变量的命名规则.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\refint\Lesson4_变量的命名规则.dll
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.pdb
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\Lesson4_变量的命名规则.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp入门教程\Lesson4_变量的命名规则\obj\Debug\net8.0\ref\Lesson4_变量的命名规则.dll
